@@ -20,3 +20,5 @@ Pinto-Tomas, A. A., Anderson, M. A., Suen, G., Stevenson, D. M., Chu, F. S. T., 
 
 Webster, N.S., & Reusch, T. BH. (2017) Microbial contributions to the persistence of coral reefs. The ISME Journal, 11, 2167-2174.
 
+Pictures taken by [Alexander Wild](http://www.alexanderwild.com/), Don Parsons, and Daniel Erhardt. Figure assembled by Charlotte Francoeur.
+
