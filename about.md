@@ -18,7 +18,7 @@ In my free time, I enjoy reading, hiking, and playing ultimate frisbee. I've don
 
 I played ultimate frisbee for four years at Maryland, 3 years on [Cosmic](https://umdultimatebee.weebly.com/) and one year on Helpful Corn. I used my last year of eligibility playing on the UW-Madison women's team, [Bella Donna](https://belladonnaatropa.wordpress.com/). I've also played on several different club teams during the summers.
 
-It's really important to have a work-life balance in graduate school and I think it is important to emphasize mental health. While I love science, I do not let it consume my life. 
+It's really important to have a work-life balance in graduate school and I think it is important to emphasize mental health. While I love science, I also make sure to make time for my other interests!
 
 ### Contact me
 
