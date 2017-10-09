@@ -16,7 +16,7 @@ For more information on what I am researching now, click [here](https://cfrancoe
 ## Non-research related interests!
 In my free time, I enjoy reading, hiking, and playing ultimate frisbee. 
 
-My favorite author is [Octavia Butler](http://octaviabutler.org/) - her books are truly life-changing! I can't really choose my favorite book, but here are the top three: Parable of the Sower, Parable of the Talents, and Lillith's Brood (technically three books). I recommend any book by Octavia Butler.
+My favorite author is [Octavia Butler](http://octaviabutler.org/) - her books are truly life-changing! I can't really choose my favorite book, but here are the top three: Parable of the Sower, Parable of the Talents, and Lilith's Brood (technically three books). I recommend any book by Octavia Butler.
 
 I've done sections of the Appalachian Trail and after I get my PhD, I would love to try and tackle a section of the Pacific Crest Trail. I also conquered by first 14er this summer (2017) with my labmates at Mt. Elbert, CO. My life goal is to visit all the National Parks in the United States. So far my favorite one has to be Crater Lake, OR!
 
