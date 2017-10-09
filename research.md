@@ -1,0 +1,1 @@
+![](..images/quadripartite_system.png)
