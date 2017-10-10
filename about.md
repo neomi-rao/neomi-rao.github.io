@@ -20,7 +20,7 @@ My favorite author is [Octavia Butler](http://octaviabutler.org/) - her books ar
 I've done sections of the Appalachian Trail and after I get my PhD, I would love to try and tackle a section of the Pacific Crest Trail. I also conquered my first 14er this summer (2017) with my labmates at Mt. Elbert, CO. My life goal is to visit all the National Parks in the United States. So far my favorite one has to be Crater Lake, OR!
 
 ![](../images/group_mtelbert.JPG) 
-![](../images/crater_lake.JPG)
+![](../images/crater_lake.JPG)  
 
 I played ultimate frisbee for four years at Maryland, 3 years on [Cosmic](https://umdultimatebee.weebly.com/) and one year on Helpful Corn. I used my last year of eligibility playing on the UW-Madison women's team, [Bella Donna](https://belladonnaatropa.wordpress.com/). I've also played on several different club teams during the summers.
 
