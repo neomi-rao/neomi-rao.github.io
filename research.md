@@ -14,9 +14,9 @@ From culture-independent and culture-dependent work, we know that there is a cor
 
 
 ### Works Cited
-Márquez, L.M., R. Redman, R. Rodriguez, and M.J. Roossinck. 2007. A virus in a fungus in a plant: Three-way symbiosis required for thermal tolerance. Science 315:513-515.
+Márquez, L.M., Redman, R.S., Rodriguez, R.J., & Roossinck, M.J. 2007. A virus in a fungus in a plant: Three-way symbiosis required for thermal tolerance. Science 315:513-515.
 
-Pinto-Tomas, A. A., Anderson, M. A., Suen, G., Stevenson, D. M., Chu, F. S. T., Cleland, W. W., … Currie, C. R. (2009). Symbiotic Nitrogen Fixation in the Fungus Gardens of Leaf-Cutter Ants. Science, 326(5956), 1120–1123. https://doi.org/10.1126/science.1173036
+Pinto-Tomas, A. A., Anderson, M. A., Suen, G., Stevenson, D. M., Chu, F. S. T., Cleland, W. W., Weimer, P.J., & Currie, C. R. (2009). Symbiotic Nitrogen Fixation in the Fungus Gardens of Leaf-Cutter Ants. Science, 326(5956), 1120–1123. https://doi.org/10.1126/science.1173036
 
 Webster, N.S., & Reusch, T. BH. (2017) Microbial contributions to the persistence of coral reefs. The ISME Journal, 11, 2167-2174.
 
