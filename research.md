@@ -2,7 +2,6 @@
 layout: page
 permalink: /research/
 ---
-
 ## Publications 
 **Francoeur CB**, Khadempour L, Moreira-Soto RD, Gotting K, Book AJ, Pinto-Tomás AA, Keefover-Ring K, Currie CR. 2020. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. mBio 11:e02146-20. [https://doi.org/10.1128/mBio.02146-20](https://doi.org/10.1128/mBio.02146-20).  
 
