@@ -5,14 +5,14 @@ permalink: /research/
 
 ## Publications 
 
-**Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (Submitted). Burkholderia from fungus gardens of fungus-growing ants produce antifungals that inhibit the specialized parasite Escovopsis. Applied and Environmental Microbiology. [[BioRxiv DOI: 10.1101/2021.01.22.427492.]](https://www.biorxiv.org/content/10.1101/2021.01.22.427492v1)  
+**Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (Submitted). *Burkholderia* from fungus gardens of fungus-growing ants produce antifungals that inhibit the specialized parasite *Escovopsis*. Applied and Environmental Microbiology. [[BioRxiv DOI: 10.1101/2021.01.22.427492.]](https://www.biorxiv.org/content/10.1101/2021.01.22.427492v1)  
 #indicates equal contributors  
 
 Weng, Y-M., **Francoeur, C.B.**, Currie, C.R., Kavanaugh, D., & Schoville, S. (Submitted). A high-quality carabid genome provides insights into beetle genome evolution and cold adaptation. Molecular Ecology Resources. [[Authorea DOI: 10.22541/au.161101907.70798763/v1.]](https://authorea.com/doi/full/10.22541/au.161101907.70798763)    
 
 **Francoeur CB**, Khadempour L, Moreira-Soto RD, Gotting K, Book AJ, Pinto-Tomás AA, Keefover-Ring K, Currie CR. 2020. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. mBio 11:e02146-20. [https://doi.org/10.1128/mBio.02146-20](https://doi.org/10.1128/mBio.02146-20).  
 
-Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. 2016. Ralstonia insidiosa serves as bridges in biofilm formation by foodborne pathogens Listeria monocytogenes, Salmonella enterica, and Enterohemorrhagic Escherichia coli. Food Control, 65, 14–20.  
+Liu, N. T., Bauchan, G. R., **Francoeur, C. B.**, Shelton, D. R., Lo, Y. M., & Nou, X. 2016. *Ralstonia insidiosa* serves as bridges in biofilm formation by foodborne pathogens *Listeria monocytogenes*,*Salmonella enterica*, and Enterohemorrhagic *Escherichia coli*. Food Control, 65, 14–20.  
 
 ## Research Interests 
 As the human population increases, we are altering the environment in devastating ways. From [climate change](https://flic.kr/p/W3wPeE) to pumping pollutants into the Earth's soil, waterways, and atmosphere, we are in desperate need of sweeping solutions to cleaning up our environment. I am interested in the microbial role of mediating effects of human intervention, specifically in allowing hosts to adapt to environmental changes. Scientists have observed microbes (bacteria, fungi, and viruses) making a difference in coral reef bleaching (Webster & Reusch, 2017), drought tolerance in plants(Márquez et al., 2007), and fighting [invasive species](http://www.apsnet.org/publications/apsnetfeatures/Pages/ChestnutBlightDisease.aspx). Understanding how microbes shape the boundaries of what environments their hosts can inhabit will become even more important as the conditions of Earth shift due to human influence.
