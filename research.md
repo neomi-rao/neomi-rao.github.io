@@ -4,10 +4,10 @@ permalink: /research/
 ---
 ## Publications 
 
-**Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (Submitted). Burkholderia from fungus gardens of fungus-growing ants produce antifungals that inhibit the specialized parasite Escovopsis. Applied and Environmental Microbiology. [BioRxiv DOI: 10.1101/2021.01.22.427492.]  
+**Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (Submitted). Burkholderia from fungus gardens of fungus-growing ants produce antifungals that inhibit the specialized parasite Escovopsis. Applied and Environmental Microbiology. [[BioRxiv DOI: 10.1101/2021.01.22.427492.]](https://www.biorxiv.org/content/10.1101/2021.01.22.427492v1)  
 #indicates equal contributors  
 
-Weng, Y-M., **Francoeur, C.B.**, Currie, C.R., Kavanaugh, D., & Schoville, S. (Submitted). A high-quality carabid genome provides insights into beetle genome evolution and cold adaptation. Molecular Ecology Resources. [Authorea DOI: 10.22541/au.161101907.70798763/v1.]    
+Weng, Y-M., **Francoeur, C.B.**, Currie, C.R., Kavanaugh, D., & Schoville, S. (Submitted). A high-quality carabid genome provides insights into beetle genome evolution and cold adaptation. Molecular Ecology Resources. [[Authorea DOI: 10.22541/au.161101907.70798763/v1.]](https://authorea.com/doi/full/10.22541/au.161101907.70798763)    
 
 **Francoeur CB**, Khadempour L, Moreira-Soto RD, Gotting K, Book AJ, Pinto-Tomás AA, Keefover-Ring K, Currie CR. 2020. Bacteria contribute to plant secondary compound degradation in a generalist herbivore system. mBio 11:e02146-20. [https://doi.org/10.1128/mBio.02146-20](https://doi.org/10.1128/mBio.02146-20).  
 
