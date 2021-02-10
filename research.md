@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /research/
+permalink: /research/  
 ---
 
 ## Publications 
-
 **Francoeur, C.B.**#, May, D.S.#, Thairu, M., Hoang, D.Q., Panthofer, O., Bugni, T.S., Pupo, M.T., Clardy, J., Pinto-Tomás, A.A., & Currie, C.R. (Submitted). *Burkholderia* from fungus gardens of fungus-growing ants produce antifungals that inhibit the specialized parasite *Escovopsis*. Applied and Environmental Microbiology. [[BioRxiv DOI: 10.1101/2021.01.22.427492.]](https://www.biorxiv.org/content/10.1101/2021.01.22.427492v1)  
 #indicates equal contributors  
 
