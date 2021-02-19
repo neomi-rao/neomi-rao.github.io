@@ -11,7 +11,8 @@ As a part of my participation in the [WISCIENCE Public Service Fellows program](
 The zine is free and can be downloaded from [this Arboretum webpage](https://arboretum.wisc.edu/learn/resources/). Enjoy the PDF on your computer or phone in consecutive pages, or print it out as a booklet! Please feel free to share with anybody who would be interested!! 
 
 Check out some excerpts from the zine below!
-![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample2_leaf-cutter-ants.jpg){:style="float: left;margin-left: height="355.33" width="500px"} | ![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample3_wetlands.jpg){:style="float: right;margin-right: height="355.33px" width="500px"} |
+![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample2_leaf-cutter-ants.jpg){:style="float: left;margin-left: height="355.33" width="500px"}
+![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample3_wetlands.jpg){:style="float: right;margin-right: height="355.33px" width="500px"} 
 
 
 ## Charlotte Francoeur: A reminder to appreciate the little things in life  
