@@ -15,7 +15,7 @@ Check out some excerpts from the zine below!
 
 
 ## Charlotte Francoeur: A reminder to appreciate the little things in life
-### Written by Julia Buskirk  
+#### Written by Julia Buskirk  
 
 Check out [this blog post](https://currielab.wisc.edu/blog.php?id=15), written by the amazing Julia Buskirk, about why I am interested in microbes and ants!
 
