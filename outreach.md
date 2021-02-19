@@ -11,7 +11,11 @@ As a part of my participation in the [WISCIENCE Public Service Fellows program](
 The zine is free and can be downloaded from [this Arboretum webpage](https://arboretum.wisc.edu/learn/resources/). Enjoy the PDF on your computer or phone in consecutive pages, or print it out as a booklet! Please feel free to share with anybody who would be interested!! 
 
 Check out some excerpts from the zine below!
-![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample2_leaf-cutter-ants.jpg)
-![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample3_wetlands.jpg)
+![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample2_leaf-cutter-ants.jpg){:height="500px" width="355.33px"} ![](../images/The-Wonderful-World-of-Microbes-Zine_pages_Charlotte-Francoeur_sample3_wetlands.jpg){:height="500px" width="355.33px"}
 
+
+## Charlotte Francoeur: A reminder to appreciate the little things in life
+#Written by Julia Buskirk
+
+Check out [this blog post](https://currielab.wisc.edu/blog.php?id=15), written by the amazing Julia Buskirk, about why I am interested in microbes and ants!
 
