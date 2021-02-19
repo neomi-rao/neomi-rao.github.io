@@ -5,7 +5,7 @@ permalink: /outreach/
 ---
 ## *The Wonderful World of Microbes* Zine  
 
-![](../images/title page.pdf) 
+![](../images/title_page.pdf) 
 
 In 2021, as a part of my participation in the [WISCIENCE Public Service Fellows program](https://wiscience.wisc.edu/program/public-service-fellows), I wrote a zine (illustrated by [Lindsey Leigh](https://www.lindseyleighart.com/)) in partnership with the [UW-Madison Arboretum](https://arboretum.wisc.edu/) to communicate the widespread influence of microbes on Earth. The zine highlights microbes in areas of health and the environment: from antibiotics, to symbiotic relationships in nature, to wastewater, to the role of microbes in ecological communities like wetlands, prairies, and forests. 
 
