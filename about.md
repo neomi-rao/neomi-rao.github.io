@@ -12,8 +12,7 @@ Broadly, I am interested in the political psychology of engaging in system-chall
 ## Non-research interests!
 In my free time, I enjoy trying new recipes, biking around Chicago, and watching international reality TV. When travel is possible, I love to go hiking. While mountains and hills are in short supply in the Midwest, my favorite spot for hiking and nature (realtively) near by is the Pictured Rocks National Lakeshore on Lake Superior.
 
-![](../images/group_mtelbert.JPG) 
-![](../images/crater_lake.JPG)  
+![](../images/pictured-rocks.JPG)
 
 
 ### Contact me
