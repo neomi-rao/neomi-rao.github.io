@@ -18,6 +18,4 @@ In my free time, I enjoy trying new recipes, biking around Chicago, and watching
 
 ### Contact me
 
-Feel free to contact me about anything from specific research to general life!
-
-[francoeur@wisc.edu](mailto:francoeur@wisc.edu)
+Feel free to contact me at [nkrao@uchicago.edu](mailto:nkrao@uchicago.edu
