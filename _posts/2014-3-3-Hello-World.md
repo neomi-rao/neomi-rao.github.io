@@ -4,4 +4,4 @@ title: Welcome!
 ---
 
 I am a graduate student in the [Political Science Doctoral Program](political-science.uchicago.edu/) at the University of Chicago. I study American politics, social movements, identity, and ideology. 
-![](../images/IMF_4035.HEIC)
+![](../images/IMG_4035.HEIC)
