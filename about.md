@@ -18,4 +18,4 @@ In my free time, I enjoy trying new recipes, biking around Chicago, and watching
 
 ### Contact me
 
-Feel free to contact me at [nkrao@uchicago.edu](mailto:nkrao@uchicago.edu
+Feel free to contact me at [nkrao@uchicago.edu](mailto:nkrao@uchicago.edu)
