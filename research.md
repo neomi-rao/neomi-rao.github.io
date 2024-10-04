@@ -17,6 +17,8 @@ permalink: /research/
 [Journal article](https://www.surveypractice.org/article/12495)
 
 ## Other Publications 
+Plotkin, S., Krishnan, S., Hui, K. & Rao N. (2024). Collective Drawing as Liberatory Method: An Abolitionist Toolkit for Community Meaning-Making, designed with CareNotCops. *Theory, Research, and Action in Urban Education, Special Issue: Black Geographies and Transdisciplinary Abolitionist Education: Lifting Up Interlocking Struggles to Create Radical Possibilities.* [Article] (https://traue.commons.gc.cuny.edu/collective-drawing-as-liberatory-method-an-abolitionist-toolkit-for-community-meaning-making-designed-with-carenotcops/)
+
 Lingam, L., Bhallamudi I., & Rao, N. (2018). *Adolescent Subcultures & Smartphones: Exploring the Implications for Gender, Sexuality and Rights.*  Tata Institute for Social Sciences, Mumbai. 
 [Click here for PDF](../files/SMARTPHONE_booklet_180607.pdf)
 
