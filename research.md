@@ -15,7 +15,7 @@ Plotkin, S., Krishnan, S., Hui, K. & **Rao N.** (2024). Collective Drawing as Li
 [Journal article](https://journals.sagepub.com/doi/abs/10.1177/2050157920922262) |
 [PDF](../files/RaoLingam_MMC_final.pdf)
 
-**Rao, N.** & Ulrich, K. (2020). Effect of pre- and post-paid incentives on mail survey response. *Survey Practice.* 
+**Rao, N.** (2020). Effect of pre- and post-paid incentives on mail survey response. *Survey Practice.* 
 [Journal article](https://www.surveypractice.org/article/12495)
 
 
