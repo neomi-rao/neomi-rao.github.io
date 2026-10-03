@@ -9,8 +9,7 @@ Plotkin, S., Krishnan, S., Hui, K. & **Rao N.** (2024). Collective Drawing as Li
 
 **Rao, N** & Power, S. (2021). “Communities Change When Individuals Change”: The Sustainability of System-Challenging Collective Action. *European Journal of Social Psychology.* 
 [Journal article](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2757) |
-[PDF](../files/RaoPower_EJSP_accepted.pdf) |
-<a href="../files/RaoPower_EJSP_accepted.pdf" download>PDF</a>
+[PDF](../files/RaoPower_EJSP_accepted.pdf) 
 
 **Rao, N.** & Lingam, L. (2020). Smartphones, Youth, and Moral Panics: Exploring Print and Online Media Narratives in India. *Mobile Media & Communication.* 
 [Journal article](https://journals.sagepub.com/doi/abs/10.1177/2050157920922262) |
